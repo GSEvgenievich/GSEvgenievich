@@ -34,50 +34,42 @@
 
 ### 🛠 Технологический стек
 
-<p align="center">
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-</p>
+<!-- Явно задаём цвета через HTML-таблицу, чтобы было видно на любой теме -->
 
-<p align="center">
-  <img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
-  <img src="https://img.shields.io/badge/WPF-5C2D91?style=for-the-badge&logo=windows&logoColor=white" />
-  <img src="https://img.shields.io/badge/Avalonia_UI-1E3A8A?style=for-the-badge&logo=avaloniaui&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge&logo=android&logoColor=white" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Entity_Framework-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
-  <img src="https://img.shields.io/badge/SignalR-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
-</p>
-
----
-
-### 📊 Статистика
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GSEvgenievich&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GSEvgenievich&layout=compact&theme=radical" alt="Top Languages" />
-</p>
+<table align="center">
+  <tr>
+    <td align="center" style="padding: 5px; background-color: #239120; border-radius: 5px; color: white; font-weight: bold; font-family: monospace;">C#</td>
+    <td align="center" style="padding: 5px; background-color: #512BD4; border-radius: 5px; color: white; font-weight: bold; font-family: monospace;">.NET</td>
+    <td align="center" style="padding: 5px; background-color: #3776AB; border-radius: 5px; color: white; font-weight: bold; font-family: monospace;">Python</td>
+    <td align="center" style="padding: 5px; background-color: #7F52FF; border-radius: 5px; color: white; font-weight: bold; font-family: monospace;">Kotlin</td>
+    <td align="center" style="padding: 5px; background-color: #ED8B00; border-radius: 5px; color: white; font-weight: bold; font-family: monospace;">Java</td>
+  </tr>
+  <tr>
+    <td align="center" style="padding: 5px; background-color: #512BD4; border-radius: 5px; color: white; font-weight: bold; font-family: monospace;">ASP.NET Core</td>
+    <td align="center" style="padding: 5px; background-color: #5C2D91; border-radius: 5px; color: white; font-weight: bold; font-family: monospace;">WPF</td>
+    <td align="center" style="padding: 5px; background-color: #1E3A8A; border-radius: 5px; color: white; font-weight: bold; font-family: monospace;">Avalonia UI</td>
+    <td align="center" style="padding: 5px; background-color: #4285F4; border-radius: 5px; color: white; font-weight: bold; font-family: monospace;">Jetpack Compose</td>
+    <td align="center" style="padding: 5px; background-color: #CC2927; border-radius: 5px; color: white; font-weight: bold; font-family: monospace;">MS SQL Server</td>
+  </tr>
+  <tr>
+    <td align="center" style="padding: 5px; background-color: #316192; border-radius: 5px; color: white; font-weight: bold; font-family: monospace;">PostgreSQL</td>
+    <td align="center" style="padding: 5px; background-color: #4479A1; border-radius: 5px; color: white; font-weight: bold; font-family: monospace;">MySQL</td>
+    <td align="center" style="padding: 5px; background-color: #2496ED; border-radius: 5px; color: white; font-weight: bold; font-family: monospace;">Docker</td>
+    <td align="center" style="padding: 5px; background-color: #F05032; border-radius: 5px; color: white; font-weight: bold; font-family: monospace;">Git</td>
+    <td align="center" style="padding: 5px; background-color: #181717; border-radius: 5px; color: white; font-weight: bold; font-family: monospace;">GitHub</td>
+  </tr>
+  <tr>
+    <td align="center" style="padding: 5px; background-color: #512BD4; border-radius: 5px; color: white; font-weight: bold; font-family: monospace;">Entity Framework</td>
+    <td align="center" style="padding: 5px; background-color: #512BD4; border-radius: 5px; color: white; font-weight: bold; font-family: monospace;">SignalR</td>
+    <td align="center" colspan="3" style="padding: 5px; background-color: #6C5B7B; border-radius: 5px; color: white; font-weight: bold; font-family: monospace;">И другие...</td>
+  </tr>
+</table>
 
 ---
 
-### 📬 Контакты
+### 📬 Свяжись со мной
+
+Всегда открыт к сотрудничеству, вопросам и предложениям!
 
 - **Telegram:** [@Siezap](https://t.me/SIezap)
 - **Email:** Stepan.geras2006@yandex.ru
@@ -93,22 +85,7 @@
 
 <!-- ENGLISH VERSION -->
 
-### 🇬🇧 About me (English)
-
-I'm **Stepan Gerasimenko** — a developer, 2026 graduate of **SPbSUT** (Arkhangelsk College of Telecommunications named after B.L. Rosing).
-
-🔹 Developing **desktop apps** with **WPF**, **Avalonia UI**, and **Android** (Jetpack Compose)  
-🔹 Building **web APIs** with **ASP.NET Core** and bots with **Python**  
-🔹 Working with **SQL Server**, **PostgreSQL**, **MySQL**  
-🔹 Using **Git**, **Docker**, **Entity Framework Core**, **SignalR**, **aiohttp**  
-🔹 Coding in **C#**, **Python**, **Kotlin**, **Java**
-
-📌 **Projects are pinned below (Pinned repositories).**  
-Click on any repository to view the code and README.
-
----
-
-### 📬 Contacts
+### 🇬🇧 Contact me
 
 - **Telegram:** [@Siezap](https://t.me/SIezap)
 - **Email:** Stepan.geras2006@yandex.ru
