@@ -73,23 +73,13 @@
 
 - **Telegram:** [@Siezap](https://t.me/SIezap)
 - **Email:** Stepan.geras2006@yandex.ru
-- **GitHub:** [github.com/GSEvgenievich](https://github.com/GSEvgenievich)
+- **GitHub:** [github.com/GSEvgenievich](https://github.com/GSEvgenievich) 
 
 ---
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=GSEvgenievich&label=Просмотры+профиля&color=blue&style=flat" alt="Profile views" />
 </p>
-
----
-
-<!-- ENGLISH VERSION -->
-
-### 🇬🇧 Contact me
-
-- **Telegram:** [@Siezap](https://t.me/SIezap)
-- **Email:** Stepan.geras2006@yandex.ru
-- **GitHub:** [github.com/GSEvgenievich](https://github.com/GSEvgenievich)
 
 ---
 
